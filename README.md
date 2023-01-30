@@ -90,7 +90,7 @@ get return value from the ticket bytes.
 ## SingleBet Contract
 
 ### Contract Address
-[0xb1BF4538AfC3EAbCAe9aBCD4E0300E4A0B2907D8](https://aminox.blockscout.alphacarbon.network/address/0xb1BF4538AfC3EAbCAe9aBCD4E0300E4A0B2907D8)
+[0x3A4282A26A2c2f60612117E115b14fb1fcc1f1CF](https://aminox.blockscout.alphacarbon.network/address/0x3A4282A26A2c2f60612117E115b14fb1fcc1f1CF)
 
 ### Variables
 * signer \
