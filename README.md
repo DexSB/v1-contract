@@ -2,6 +2,9 @@
 
 ## Oracle Contract
 
+### Contract Address
+[0x5EEa4DB64c237EC468979cf5D900F5Cb05d5838E](https://aminox.blockscout.alphacarbon.network/address/0x5EEa4DB64c237EC468979cf5D900F5Cb05d5838E)
+
 ### Variables
 
 * eventResult \
@@ -38,6 +41,9 @@ if result exist, replace it with the new result
 \
 
 ## SingleBet Engine Contract
+
+### Contract Address
+[0xb1BF4538AfC3EAbCAe9aBCD4E0300E4A0B2907D8](https://aminox.blockscout.alphacarbon.network/address/0xb1BF4538AfC3EAbCAe9aBCD4E0300E4A0B2907D8)
 
 ### Variables
 * priceFactor \
@@ -82,6 +88,9 @@ get return value from the ticket bytes.
 \
 
 ## SingleBet Contract
+
+### Contract Address
+[0xb1BF4538AfC3EAbCAe9aBCD4E0300E4A0B2907D8](https://aminox.blockscout.alphacarbon.network/address/0xb1BF4538AfC3EAbCAe9aBCD4E0300E4A0B2907D8)
 
 ### Variables
 * signer \
@@ -142,6 +151,9 @@ delete the bet listed in transIds, return token to player and delete the ticket 
 
 ## OutrightBet Engine Contract
 
+### Contract Address
+[0xfE12aE1bb4D17ed5aFD44973a30916fE39540025](https://aminox.blockscout.alphacarbon.network/address/0xfE12aE1bb4D17ed5aFD44973a30916fE39540025)
+
 ### Variables
 * priceFactor \
 the ratio of the price is increased, e.g. the price is 0.89 and we'll turn it to 89 and the price factor should be 100. \
@@ -181,6 +193,9 @@ get return value from the ticket bytes.
 \
 
 ## OutrightBet Contract
+
+### Contract Address
+[0x6E203093C942542365642e1389dd92FeAf6FEcD7](https://aminox.blockscout.alphacarbon.network/address/0x6E203093C942542365642e1389dd92FeAf6FEcD7)
 
 ### Variables
 * signer \
