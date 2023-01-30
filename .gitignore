@@ -1,0 +1,21 @@
+# ide
+.vscode/
+
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*
+/broadcast/*/31337/
+
+# output file
+output/
+
+# tools file
+tools/
+
+.idea/
+logs/
+node_modules/
